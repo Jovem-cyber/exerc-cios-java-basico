@@ -1,2 +1,2 @@
-# exerc-cios-java-basico
+# exerccios-java-basico
 Aula - DIO Santander - Java e a Arte da Abstração com Classes e Encapsulamento
